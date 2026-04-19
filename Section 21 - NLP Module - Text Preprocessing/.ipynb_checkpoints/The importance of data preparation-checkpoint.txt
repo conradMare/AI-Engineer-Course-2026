@@ -1,0 +1,16 @@
+The importance of data prep:
+
+"Quality of the data is one of the most important factors that determine the accuracy"
+
+Garabage in, Garbage out
+
+DATA PREPROCESSING:
+1 - General Cleaning:
+    - Organizing
+    - Tidying up the text
+    - Remove anything that can throw an error
+
+2 - Removing noise from the dataset:
+    - Removign aspects in the data that are not adding any value
+
+3 - Getting the data in the right format for the ML Alogrithm
