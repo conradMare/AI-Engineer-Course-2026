@@ -1,0 +1,13 @@
+Supervised vs Unseprivised ML Solutions for NLP:
+
+Which on to use?
+"Depends on the data and the questions you are trying to answer."
+
+Supervised Learning:
+"Training an algorithm to learn the relationship between the input and output (Both are provided)." -> Uses labels
+
+Unsuperised ML:
+"Does not use labels, can find patterns in the data."
+
+Summary:
+The choice between the two approaches depends on the availability of labeled data, and the specific insights and questions that you are looking to answer.
