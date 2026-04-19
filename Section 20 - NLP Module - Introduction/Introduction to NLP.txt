@@ -1,0 +1,12 @@
+Natural Language Processing (NLP)
+
+Def: "A field of AI that allows computers to understand, interpret and generate human language data"
+
+Techniques used to process and analyze human language data:
+1 - Statistics
+2 - Machine Learning (ML)
+3 - Deep Learning (DL)
+
+By leveraging NLP techniques you will be able to:
+1 - Save massive amounts of time when working with text data,
+2 - Uncover insights that previously might not have been uncovered
