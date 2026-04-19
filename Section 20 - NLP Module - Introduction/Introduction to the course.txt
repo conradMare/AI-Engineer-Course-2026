@@ -1,0 +1,28 @@
+In this course:
+
+1 - Exploration
+    - What is NLP
+    - How is it applied in everyday life
+
+2 - Text Preprocessing
+    - Practical Lessons
+
+3 - Extraction of key components in our text
+    - Speech Tagging
+    - Named entity recognition
+
+4 - Understanding the emotions in text
+    - Sentiment Analysis
+
+5 - Text Vectorization
+
+6 - Topic Modelling
+
+7 - Creating a Custom Classifier
+
+8 - Real-World Bussiness Problem
+
+9 - The Future of NLP
+    - Deep Learning
+    - Large Language Models (LLM's)
+    - Where NLP might be heading
