@@ -1,0 +1,10 @@
+NLP in everday life:
+
+1 - Search engines
+(Used to extract key words, understand the users intent, and return relevant web pages)
+
+2 - Email can auto detect spam emails
+(Classification algorythms can determine patterns to classify unwanted and wanted emails)
+
+3 - Customer Support Systems and Chatbots
+(Use NLP to understand and and interpret customer queries)
