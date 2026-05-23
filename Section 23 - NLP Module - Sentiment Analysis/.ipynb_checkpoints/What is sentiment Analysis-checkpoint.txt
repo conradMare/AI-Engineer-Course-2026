@@ -1,0 +1,24 @@
+Sentiment Analysis:
+
+NLP technique for discovering the underlying emotional tone of the text.
+
+Positive/ Negative or Neutral.
+
+POSITIVE SENTIMENT:
+- Expression of liking something
+- Enjoyment
+- Positive Emotion
+
+Example: "Themusic in the cafe made me feel really calm and relaxed."
+
+
+NEGATIVE SENTIMENT"
+- Expression of negative emotion
+
+Example:
+"The smell was really bad, and made me feel sick."
+
+NEUTRAL SENTIMENT:
+- Sentence doesn't really appear positive or negative.
+
+Example: "It was raining."
