@@ -1,0 +1,18 @@
+Numerical Representation of Text:
+
+Getting data in the right format for machine learning (Text Pre-processing) -> Where Text Vectorization is involved.
+
+Passing clean text into an algorythm is not enough, need to convert the text into a numeric representation that the machine algorythm can understand.
+
+There are 2 ways to do this:
+1 - The Bag of Words models,
+2 - Term Frequence Inverse Document Frequency (TI IDF)
+
+Bag of Words Model:
+"Counts which words appear in which documents."
+(Simple and easy to understand, but you do lose a lot of context.)
+
+Term Frequency Inverse Document Frequency (TF IDF):
+"Calculates the importance of that word for that particular document."
+"Takes onto account how that word appears in each of the other documents."
+In short, it gives a bit more context.
