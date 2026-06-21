@@ -1,0 +1,13 @@
+Topic modelling:
+
+"Takes a set of documents ( individual pieces of text -> Rows of text in a DataFrame or items in a list )"
+
+Topic modelling will take the documents and scan it for patterns,
+We can then group similar documents together ito topics.
+
+TOPIC MODELLING IS AN EXAMPLE OF UNSUPERVISED LEARNING.
+
+We don't need any labels in out documents to find topics,
+the algorythms work by identifying similar word patterns throughout the documents,
+from there the algorythm works to identify what each document is talking about,
+oce the algorythm can do this they can group documents together easily.
