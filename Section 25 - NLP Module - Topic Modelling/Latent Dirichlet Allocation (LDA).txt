@@ -1,0 +1,12 @@
+Latent Dirichlet Allocation (LDA):
+
+How does it work?:
+
+How do we decide which document is about which topic?:
+
+"We can look at the words they use..."
+
+The word is "Latent" in it means -> The same word can be used with different context,
+Example -> "Crash" can be used in traffice news and finance.
+
+Dirichlet Distribution: Used to model uncertainty about proprtions, so in laments terms, one document can have different types of words, so the algotyhm needs to figure out what the document is about.
