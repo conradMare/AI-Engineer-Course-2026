@@ -5,4 +5,4 @@ Classifying text using custom labels to create a custom classifier.
 The Algorythms used in this section:
 1 - Logistic regression
 2 - Naive bayes
-3 - 
+3 - Linear SVM (Support Vector Machine)
