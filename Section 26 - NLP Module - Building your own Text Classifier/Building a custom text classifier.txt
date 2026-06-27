@@ -1,0 +1,8 @@
+This is going to invlove:
+
+Classifying text using custom labels to create a custom classifier.
+
+The Algorythms used in this section:
+1 - Logistic regression
+2 - Naive bayes
+3 - 
